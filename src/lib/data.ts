@@ -14,6 +14,13 @@ export const navLinks: NavLinkData[] = [
 ];
 export const experiences: ExperienceData[] = [
     {
+        "icon": Briefcase,
+        "title": "Junior React Developer",
+        "location": "Radio IP",
+        "date": "2025 - present",
+        "description": "As a Junior React Developer, I contribute to the development of NextGen frontend solutions using React and Bootstrap to create responsive, user-friendly interfaces. My role involves building reusable components, optimizing performance, and ensuring accessibility."
+    },
+    {
         icon: Briefcase,
         title: 'Hostess',
         location: 'Poutine Boss',
@@ -42,17 +49,17 @@ export const projects: ProjectData[] = [
     },
     {
         projIcon: PawPrint,
-        gitUrl: 'https://github.com/barbaraeguche/pet-adoption',
-            title: 'Whisker Cove',
+        gitUrl: 'https://github.com/barbaraeguche/paw-squad',
+        title: 'Paw Squad',
         description: 'Created a full-stack pet adoption web application with secure session management and user-friendly adoption functionalities.',
-        tags: ['html', 'css', 'ejs', 'node.js', 'express.js', 'mongodb', 'auth', 'session', 'multer']
+        tags: ['next.js', 'tailwind', 'zustand', 'next-auth', 'sessions']
     },
     {
         projIcon: ShoppingBasket,
-        gitUrl: 'https://github.com/barbaraeguche/grocery-list',
-        title: 'SnapCart',
+        gitUrl: 'https://github.com/barbaraeguche/cartdash',
+        title: 'Cartdash',
         description: 'Developed a grocery shopping management application with CRUD functionalities, allowing users to efficiently manage their grocery lists',
-        tags: ['react', 'typescript', 'flask', 'pymongo', 'apis', 'axios', 'flask-cors']
+        tags: ['react', 'typescript', 'flask', 'pymongo', 'vite', 'flask-cors']
     },
     {
         projIcon: Dices,
