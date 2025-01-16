@@ -17,21 +17,21 @@ export const experiences: ExperienceData[] = [
         "icon": Briefcase,
         "title": "Junior React Developer",
         "location": "Radio IP",
-        "date": "2025 - present",
+        "date": "Jan. 2025 - present",
         "description": "As a Junior React Developer, I contribute to the development of NextGen frontend solutions using React and Bootstrap to create responsive, user-friendly interfaces. My role involves building reusable components, optimizing performance, and ensuring accessibility."
     },
     {
         icon: Briefcase,
         title: 'Hostess',
         location: 'Poutine Boss',
-        date: '2023 - present',
+        date: 'Jul. 2023 - Dec. 2024',
         description: 'I work as a hostess, serving meals and making drinks for customers, which requires strong multitasking, critical thinking, and excellent customer service skills.',
     },
     {
         icon: GraduationCap,
         title: 'Computer Science',
         location: 'Concordia University',
-        date: '2022 - present',
+        date: 'Sep. 2022 - present',
         description: "Currently pursuing a Bachelor's degree in Computer Science."
     }
 ];
